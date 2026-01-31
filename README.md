@@ -18,23 +18,16 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-- ⚛️ React.js  
-- 🧠 JavaScript (ES6+)  
-- 🧱 HTML5, CSS3  
-- 🌈 Tailwind CSS / Bootstrap  
+⚛️ React.js • 🧠 JavaScript (ES6+) • 🧱 HTML5/CSS3 • 🌈 Tailwind CSS / Bootstrap
 
 ### ⚙️ Backend
-- 🟢 Node.js  
-- 🚂 Express.js  
-- 🔐 REST APIs & JWT Authentication  
-
+🟢 Node.js • 🚂 Express.js • 🔐 REST APIs & JWT
+ 
 ### 🍃 Database
-- MongoDB  
-
+🍃 MongoDB
+  
 ### 🧰 Tools
-- Git & GitHub  
-- Postman  
-- VS Code  
+🧰 Git/GitHub • 📦 Postman • 🖥️ VS Code
 
 ---
 
@@ -45,17 +38,10 @@
 > A full-stack food ordering web application inspired by Swiggy.
 
 #### 🚀 Key Features
-- 🏪 Restaurant & food item listing  
-- 🛒 Add to cart and quantity management  
-- 🔐 User authentication  
-- 💳 Order summary & checkout flow  
-- 📱 Fully responsive UI  
-
-#### 🛠️ Tech Stack
-- 🎨 **Frontend:** React.js  
-- ⚙️ **Backend:** Node.js, Express.js  
-- 🍃 **Database:** MongoDB  
-- 🔗 **API:** REST APIs  
+🏪 Listings | 🛒 Cart | 🔐 Auth | 💳 Checkout | 📱 Responsive
+ 
+### 🛠️ Tech Stack
+🎨 React.js • ⚙️ Node.js & Express.js • 🍃 MongoDB • 🔗 REST API  
 
 ---
 
@@ -64,17 +50,10 @@
 > A real-time web chat application with instant messaging capabilities.
 
 #### 🚀 Key Features
-- ⚡ Real-time one-to-one messaging  
-- 🔐 Secure user authentication  
-- 🟢 Online / Offline user status  
-- ⏱️ Message timestamps  
-- 📱 Fully responsive design  
+⚡ One-to-one real-time chat • 🔐 Secure authentication • 🟢 Online/Offline status • ⏱️ Timestamps • 📱 Responsive UI
 
 #### 🛠️ Tech Stack
-- 🎨 **Frontend:** React.js  
-- ⚙️ **Backend:** Node.js, Express.js  
-- 🍃 **Database:** MongoDB  
-- 🔄 **Real-Time:** Socket.IO  
+🎨 React.js • ⚙️ Node.js & Express.js • 🍃 MongoDB • 🔄 Socket.IO
 
 ---
 
