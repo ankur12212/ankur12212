@@ -67,12 +67,4 @@
 ## ⚡ Fun Fact
 I love turning real-world problems into scalable web solutions 🚀
 
----
 
----
-
-## 📊 GitHub Stats
-
-![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur12212&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur12212&layout=compact&theme=radical)
