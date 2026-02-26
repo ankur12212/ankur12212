@@ -66,3 +66,9 @@
 
 ## ⚡ Fun Fact
 I love turning real-world problems into scalable web solutions 🚀
+
+---
+
+## 📊 GitHub Activity
+
+![Metrics](https://metrics.lecoq.io/ankur12212?template=classic&activity=1&community=1&repositories=1)
